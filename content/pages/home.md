@@ -3,8 +3,8 @@ title: Tina Cloud Starter
 blocks:
   - items:
       - icon:
-          color: ''
-          style: float
+          color: orange
+          style: circle
           name: ''
         title: Here's Another Feature
         text: >-
