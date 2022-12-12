@@ -8,8 +8,12 @@
     "color": "default",
     "nav": [
       {
-        "href": "",
+        "href": "home",
         "label": "Home"
+      },
+      {
+        "href": "contact",
+        "label": "Contact"
       },
       {
         "href": "about",
@@ -34,5 +38,10 @@
     "font": "sans",
     "icon": "boxicon",
     "darkMode": "system"
-  }
+  },
+  "_collection": "global",
+  "_keepTemplateKey": false,
+  "_template": "global",
+  "_relativePath": "index.json",
+  "_id": "content/global/index.json"
 }
