@@ -1,32 +1,6 @@
 ---
-title: Tina Cloud Starter
+title: MTD Technologies
 blocks:
-  - items:
-      - icon:
-          color: orange
-          style: circle
-          name: ''
-        title: Here's Another Feature
-        text: >-
-          This is where you might talk about the feature, if this wasn't just
-          filler text.
-      - icon:
-          color: ''
-          style: float
-          name: ''
-        title: Here's Another Feature
-        text: >-
-          This is where you might talk about the feature, if this wasn't just
-          filler text.
-      - icon:
-          color: ''
-          style: float
-          name: ''
-        title: Here's Another Feature
-        text: >-
-          This is where you might talk about the feature, if this wasn't just
-          filler text.
-    _template: features
   - headline: Welcome to the Tina Starter
     text: >
       This project is set up to show you the basics of working with Tina. You're
@@ -48,7 +22,5 @@ blocks:
       alt: Tina
     color: default
     _template: hero
-  - color: tint
-    _template: features
 ---
 
